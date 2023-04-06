@@ -28,6 +28,6 @@ This was a project done for the subject "Computational Thinking for Engineering"
 
 ## Screenshots
 
-<img src="./images/Main.png" alt="Main Page" style="float: left; margin-right: 10px;" width="200"/> <img src="./images/Second.png" alt="" style="float: left; margin-right: 10px;" width="200"/> <img src="images/Chart.png" alt="" style="float: left; margin-right: 10px;" width="186"/> 
+<img src="./images/Main.png" alt="Main Page" style="float: left; margin-right: 20px;" width="200"/> <img src="./images/Second.png" alt="" style="float: left; margin-right: 20px;" width="200"/> <img src="images/Chart.png" alt="" style="float: left; margin-right: 20px;" width="186"/> 
 
 
